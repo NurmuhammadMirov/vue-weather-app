@@ -2,7 +2,12 @@
 
 A simple, Weather App built with **Vue 3 Composition API**, using the **OpenWeatherMap API** and deployed with **Netlify**.
 
-Check out the live app 👉 [https://vue-weather-app-test.netlify.app](https://vue-weather-app-test.netlify.app)
+<p>
+  Check out the live app 👉
+  🔗 <a href="https://vue-weather-app-test.netlify.app" target="_blank" rel="noopener noreferrer">
+    vue-weather-app-test.netlify.app
+  </a>
+</p>
 
 ![Screenshot](./src/assets//weather-app.png)
 
